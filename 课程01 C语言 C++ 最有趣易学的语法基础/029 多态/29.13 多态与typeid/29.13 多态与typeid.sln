@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "29.13 多态与typeid", "29.13 多态与typeid.vcxproj", "{DB5A04D5-E436-4514-BC8F-0DF4CAF4A5CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB5A04D5-E436-4514-BC8F-0DF4CAF4A5CE}.Debug|x64.ActiveCfg = Debug|x64
+		{DB5A04D5-E436-4514-BC8F-0DF4CAF4A5CE}.Debug|x64.Build.0 = Debug|x64
+		{DB5A04D5-E436-4514-BC8F-0DF4CAF4A5CE}.Debug|x86.ActiveCfg = Debug|Win32
+		{DB5A04D5-E436-4514-BC8F-0DF4CAF4A5CE}.Debug|x86.Build.0 = Debug|Win32
+		{DB5A04D5-E436-4514-BC8F-0DF4CAF4A5CE}.Release|x64.ActiveCfg = Release|x64
+		{DB5A04D5-E436-4514-BC8F-0DF4CAF4A5CE}.Release|x64.Build.0 = Release|x64
+		{DB5A04D5-E436-4514-BC8F-0DF4CAF4A5CE}.Release|x86.ActiveCfg = Release|Win32
+		{DB5A04D5-E436-4514-BC8F-0DF4CAF4A5CE}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BD264CD2-BC37-4070-B715-1C128A32A732}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "23.09 预处理指令逻辑 防卫式声明", "23.09 预处理指令逻辑 防卫式声明.vcxproj", "{7407014C-D11F-4BDF-A5BC-754E84D455BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7407014C-D11F-4BDF-A5BC-754E84D455BA}.Debug|x64.ActiveCfg = Debug|x64
+		{7407014C-D11F-4BDF-A5BC-754E84D455BA}.Debug|x64.Build.0 = Debug|x64
+		{7407014C-D11F-4BDF-A5BC-754E84D455BA}.Debug|x86.ActiveCfg = Debug|Win32
+		{7407014C-D11F-4BDF-A5BC-754E84D455BA}.Debug|x86.Build.0 = Debug|Win32
+		{7407014C-D11F-4BDF-A5BC-754E84D455BA}.Release|x64.ActiveCfg = Release|x64
+		{7407014C-D11F-4BDF-A5BC-754E84D455BA}.Release|x64.Build.0 = Release|x64
+		{7407014C-D11F-4BDF-A5BC-754E84D455BA}.Release|x86.ActiveCfg = Release|Win32
+		{7407014C-D11F-4BDF-A5BC-754E84D455BA}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {414AFDB4-728E-47F4-A5E6-179E4D7A7F00}
+	EndGlobalSection
+EndGlobal

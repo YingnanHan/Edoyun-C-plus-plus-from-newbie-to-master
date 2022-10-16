@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "09.04 逻辑运算符", "09.04 逻辑运算符.vcxproj", "{CE0543F0-76D4-41F6-9FF0-2F31AA178000}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE0543F0-76D4-41F6-9FF0-2F31AA178000}.Debug|x64.ActiveCfg = Debug|x64
+		{CE0543F0-76D4-41F6-9FF0-2F31AA178000}.Debug|x64.Build.0 = Debug|x64
+		{CE0543F0-76D4-41F6-9FF0-2F31AA178000}.Debug|x86.ActiveCfg = Debug|Win32
+		{CE0543F0-76D4-41F6-9FF0-2F31AA178000}.Debug|x86.Build.0 = Debug|Win32
+		{CE0543F0-76D4-41F6-9FF0-2F31AA178000}.Release|x64.ActiveCfg = Release|x64
+		{CE0543F0-76D4-41F6-9FF0-2F31AA178000}.Release|x64.Build.0 = Release|x64
+		{CE0543F0-76D4-41F6-9FF0-2F31AA178000}.Release|x86.ActiveCfg = Release|Win32
+		{CE0543F0-76D4-41F6-9FF0-2F31AA178000}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C9FE8A80-7179-4B2F-89E1-03DE3EE38943}
+	EndGlobalSection
+EndGlobal

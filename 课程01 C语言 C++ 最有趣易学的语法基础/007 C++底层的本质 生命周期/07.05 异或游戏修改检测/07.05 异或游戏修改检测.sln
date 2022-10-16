@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "07.05 异或游戏修改检测", "07.05 异或游戏修改检测.vcxproj", "{355F63E2-3E8D-4EAB-8D6D-C6593B4F4D27}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{355F63E2-3E8D-4EAB-8D6D-C6593B4F4D27}.Debug|x64.ActiveCfg = Debug|x64
+		{355F63E2-3E8D-4EAB-8D6D-C6593B4F4D27}.Debug|x64.Build.0 = Debug|x64
+		{355F63E2-3E8D-4EAB-8D6D-C6593B4F4D27}.Debug|x86.ActiveCfg = Debug|Win32
+		{355F63E2-3E8D-4EAB-8D6D-C6593B4F4D27}.Debug|x86.Build.0 = Debug|Win32
+		{355F63E2-3E8D-4EAB-8D6D-C6593B4F4D27}.Release|x64.ActiveCfg = Release|x64
+		{355F63E2-3E8D-4EAB-8D6D-C6593B4F4D27}.Release|x64.Build.0 = Release|x64
+		{355F63E2-3E8D-4EAB-8D6D-C6593B4F4D27}.Release|x86.ActiveCfg = Release|Win32
+		{355F63E2-3E8D-4EAB-8D6D-C6593B4F4D27}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F47883D7-413B-4674-9445-C00DC53DEA08}
+	EndGlobalSection
+EndGlobal

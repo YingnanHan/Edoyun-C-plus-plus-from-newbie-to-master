@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "16.04 作业题 统计不同类型字符个数 含有中文GBK编码", "16.04 作业题 统计不同类型字符个数 含有中文GBK编码.vcxproj", "{2DAC18A0-382F-45BB-A2C0-0BFC93333152}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2DAC18A0-382F-45BB-A2C0-0BFC93333152}.Debug|x64.ActiveCfg = Debug|x64
+		{2DAC18A0-382F-45BB-A2C0-0BFC93333152}.Debug|x64.Build.0 = Debug|x64
+		{2DAC18A0-382F-45BB-A2C0-0BFC93333152}.Debug|x86.ActiveCfg = Debug|Win32
+		{2DAC18A0-382F-45BB-A2C0-0BFC93333152}.Debug|x86.Build.0 = Debug|Win32
+		{2DAC18A0-382F-45BB-A2C0-0BFC93333152}.Release|x64.ActiveCfg = Release|x64
+		{2DAC18A0-382F-45BB-A2C0-0BFC93333152}.Release|x64.Build.0 = Release|x64
+		{2DAC18A0-382F-45BB-A2C0-0BFC93333152}.Release|x86.ActiveCfg = Release|Win32
+		{2DAC18A0-382F-45BB-A2C0-0BFC93333152}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B7D1902F-01E2-4694-AA17-0AC6974F17AF}
+	EndGlobalSection
+EndGlobal
