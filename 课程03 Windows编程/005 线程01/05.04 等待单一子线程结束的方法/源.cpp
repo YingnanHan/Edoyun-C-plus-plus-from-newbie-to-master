@@ -7,7 +7,7 @@ using namespace std;
 
 // 解决线程等待问题
 
-DWORD WINAPI ThreadFun(LPVOID arg)
+DWORD WINAPI ThreadFun(LPVOID arg) // 这里等价于void*
 {
 	int cnt = *((int*)arg);
 	for (int i = 0; i < cnt; i++)
