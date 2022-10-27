@@ -24,7 +24,7 @@ int main(int argc, char* argv[])
 			LPCTSTR lpName							 // 指向互斥对象名的指针
 		);
 	*/
-	hMutex = CreateMutex(NULL, FALSE, NULL); // 
+	hMutex = CreateMutex(NULL, FALSE, NULL); // 初始化的时候因为没有线程在执行，所以是已通知状态
 	for (i = 0; i < NUM_THREAD; i++)
 	{
 		if (i % 2 != 0)
