@@ -1,4 +1,0 @@
-﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets(5470,5): warning MSB3061: 无法删除文件“C:\Users\20613\Desktop\Edoyun-C-plus-plus-from-newbie-to-master\课程03 Windows编程\004 Windows网络编程实战篇\进阶功能 -- 客户端隐藏自身\StealFile\Debug\StealFile.exe”。对路径“C:\Users\20613\Desktop\Edoyun-C-plus-plus-from-newbie-to-master\课程03 Windows编程\004 Windows网络编程实战篇\进阶功能 -- 客户端隐藏自身\StealFile\Debug\StealFile.exe”的访问被拒绝。
-C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppClean.targets(77,5): warning : 对路径“c:\users\20613\desktop\edoyun-c-plus-plus-from-newbie-to-master\课程03 windows编程\004 windows网络编程实战篇\进阶功能 -- 客户端隐藏自身\stealfile\debug\stealfile.exe”的访问被拒绝。
-  StealClient.cpp
-LINK : fatal error LNK1104: 无法打开文件“C:\Users\20613\Desktop\Edoyun-C-plus-plus-from-newbie-to-master\课程03 Windows编程\004 Windows网络编程实战篇\进阶功能 -- 客户端隐藏自身\StealFile\Debug\StealFile.exe”
